@@ -1,0 +1,2 @@
+"# HTTP-Message-Counts-Visualization" 
+This project was made to completed a final term assignment for Data Communication and Computer Network course. Dataset was taken from a cloned repository by the link: https://github.com/JamesQuintero/DDoS-Attack-Detection/tree/master
